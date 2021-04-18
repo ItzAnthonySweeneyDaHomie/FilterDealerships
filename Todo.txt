@@ -1,0 +1,12 @@
+I will need to import the requests module
+
+I will need to do a request for the HTML of Facebook marketplace in the vehicles section for my area. I may need to get multiple pages of HTML as not all
+listings will be on one page. I will probably chose most recent postings and get the first 10 pages or so.
+
+I will need to do the same but for Craigslist's vehicle postings.
+
+I will first parse HTML for Facebook marketplace's postings using keywords and finding dealership tags to omit those postings from the final text file.
+
+I will then parse HTML for Criagslist posting and do a similar process to filter out any postings I do not want.
+
+A text file will be created which contains all the results and links to the private seller postings. 
